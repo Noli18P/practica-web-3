@@ -1,0 +1,110 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background: linear-gradient(90deg, #33E4FF, #FF4E33);
+}
+
+.navigation {
+    margin-right: 40px;
+    position: fixed;
+}
+
+.navigation ul il {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 15px;
+    background: transparent;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+il:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.principal-info {
+    padding: 150px 0 150px 0;
+}
+
+.principal-info h1 {
+    margin-bottom: 80px;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.principal-info p {
+    width: 500px;
+    background: transparent;
+    position: relative;
+    left: 430px;
+    bottom: 30px;
+}
+
+button {
+    border-radius: 10px;
+    border: white;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.btn1 {
+    position: relative;
+    right: 35px;
+}
+
+.btn2 {
+    position: relative;
+    left: 35px;
+}
+
+.principal-info {
+    position: relative;
+    bottom: 20px;
+}
+
+.target {
+    display: inline-block;
+    background: transparent;
+}
+
+.t1 {
+    position: relative;
+    right: 420px;
+    background: transparent;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.t2 {
+    position: relative;
+    bottom: 133px;
+    background: transparent;
+    border-radius: 10px;
+    border: 1px solid white;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.t3 {
+    position: relative;
+    left: 420px;
+    bottom: 265px;
+    background: transparent;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+footer {
+    margin-top: -80px;
+    margin-bottom: -10px;
+    padding-bottom: 0px;
+    position: relative;
+    top: 30px;
+}
